@@ -57,6 +57,18 @@ main {
   padding-left: 4rem;
   color:  #ebeced;
 }
+ div.b {
+  padding-right: 7rem; 
+  text-align: right;
+  font-size: 2rem;
+  font-weight: 900;
+  color: black;
+  font-family: Arial;
+  font-style: italic;
+  line-height: 1.3rem;
+  word-spacing: normal;
+
+    }
 
 nav {
   grid-area: nav;
