@@ -103,7 +103,7 @@ nav * {
     justify-content: center;
   }
 
-.right { text-align: right; }
+#right { text-align: right; }
 
 	
 /* Based on Bootstrap, extra-small to small */
