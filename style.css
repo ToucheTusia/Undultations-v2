@@ -64,8 +64,8 @@ main {
   font-style: italic;
   line-height: 1.3rem;
   word-spacing: normal;
-
     }
+
 
 nav {
   grid-area: nav;
@@ -103,10 +103,7 @@ nav * {
     justify-content: center;
   }
 
-div.a {
-  text-align: right;
-}
-
+.right { text-align: right; }
 
 	
 /* Based on Bootstrap, extra-small to small */
