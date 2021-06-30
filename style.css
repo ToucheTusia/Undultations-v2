@@ -37,10 +37,10 @@ footer {
 header {
   padding: 1.3rem;
   grid-area: header;
-  text-align: center;
+  text-align: right;
   background:  #ff0000;
   color: black;
-  word-spacing: 10rem;
+  word-spacing: normal;
   font-family: Arial;
   font-style: italic;
   font-size: 1.4rem;
